@@ -1,2 +1,2 @@
 #!/bin/bash
-find * -type d | chmod u+x $PWD
+chmod -R +x .
