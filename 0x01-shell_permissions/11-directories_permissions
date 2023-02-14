@@ -1,2 +1,2 @@
 #!/bin/bash
-find $PWD -type d | chmod ugo+x .
+chmod -R ugo+x .
